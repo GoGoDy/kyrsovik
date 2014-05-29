@@ -1,4 +1,4 @@
-Запускается с параметром Sort.go -f=C:\data.json
+Запускается с параметром piramidSort.go -f=C:\data.json
 
 
 
