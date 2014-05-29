@@ -1,4 +1,4 @@
-Запускается с параметром go run piramidSort.go -f=C:\data.json
+Р—Р°РїСѓСЃРєР°РµС‚СЃСЏ СЃ РїР°СЂР°РјРµС‚СЂРѕРј Sort.go -f=C:\data.json
 
 
 
